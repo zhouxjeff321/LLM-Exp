@@ -1,7 +1,7 @@
 <!-- This file contains commonly use prompts to research a specific company -->
 
 <!-- Basic company info -->
-Tell me more about Magna internatioal in the following format.
+Tell me more about {Company Name} in the following format.
 1. Company history and current leadership team
 2. Main product lines
 3. Product differentiation
